@@ -49,7 +49,7 @@ The project has written queries:
 4. Bookings with the "Confirmed" status
 
  Tools
-- Microsoft Access
+- Microsoft Access, SQL
 
 How to use
 1. Open the `Hotel.accdb` file
